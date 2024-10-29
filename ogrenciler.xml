@@ -1,0 +1,26 @@
+<catalog>
+    <person>
+        <numara>1910</numara>
+        <adsoyad>Enes KOYUNCU</adsoyad>
+        <bolum>Bilgisayar Mühendisliği</bolum>
+        <sinif>4</sinif>
+    </person>
+    <person>
+        <numara>1461</numara>
+        <adsoyad>Ahmet AKDENİZ</adsoyad>
+        <bolum>Endüstri Mühendisliği</bolum>
+        <sinif>3</sinif>
+    </person>
+    <person>
+        <numara>3434</numara>
+        <adsoyad>Cem YILDIZ</adsoyad>
+        <bolum>Makine Mühendisliği</bolum>
+        <sinif>Hazırlık</sinif>
+    </person>
+    <person>
+        <numara>2828</numara>
+        <adsoyad>Tarık BUĞRA</adsoyad>
+        <bolum>Elektrik Mühendisliği</bolum>
+        <sinif>2</sinif>
+    </person>
+</catalog>
